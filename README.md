@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning ...javascript<br>🎯 Goals: ...To be an proficient Softare devloper.</p>
+<p align="left">📚 I'm currently learning ...javascript<br>🎯 Goals: ...To be an proficient Software developer.</p>
 
 ###
 
